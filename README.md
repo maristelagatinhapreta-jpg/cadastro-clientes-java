@@ -41,3 +41,25 @@ Curitiba - PR
 ## Status
 
 🚀 Em desenvolvimento
+## Estrutura do Projeto
+
+├── Cliente.java
+├── Main.java
+└── README.md
+
+## Aprendizados
+
+Durante este projeto pratiquei:
+
+- Programação Orientada a Objetos
+- Classes e Objetos
+- Métodos
+- Git e GitHub
+- Organização de projetos Java
+
+## Próximas melhorias
+
+- Cadastro de múltiplos clientes
+- Menu interativo
+- Banco de dados
+- Interface gráfica
