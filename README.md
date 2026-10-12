@@ -32,3 +32,14 @@ Maristela Aparecida Costa
 Analista de Sistemas Júnior | Desenvolvedora Full Stack Júnior
 
 GitHub: maristelagatinhapreta-jpg
+
+## Habilidades Demonstradas
+
+- Programação Orientada a Objetos
+- Criação de Classes e Objetos
+- Encapsulamento
+- Manipulação de Dados
+- Estruturação de Projetos Java
+- Controle de Versão com Git
+
+
