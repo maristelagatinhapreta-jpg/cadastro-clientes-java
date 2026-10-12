@@ -1,65 +1,34 @@
-# Cadastro de Clientes em Java
+# Sistema de Cadastro de Clientes
 
-## Sobre o Projeto
+Projeto desenvolvido em Java para gerenciamento de clientes.
 
-Projeto desenvolvido para praticar programação em Java e Orientação a Objetos.
+## Funcionalidades
 
-Este sistema realiza o cadastro e gerenciamento de clientes por meio de uma aplicação desenvolvida para fins de estudo e aperfeiçoamento técnico.
+- Cadastro de clientes
+- Consulta de clientes
+- Atualização de dados
+- Exclusão de clientes
 
 ## Tecnologias Utilizadas
 
 - Java
+- Programação Orientada a Objetos (POO)
 - Git
 - GitHub
-- IntelliJ IDEA
 
-## Funcionalidades
+## Estrutura do Projeto
 
-✅ Cadastro de clientes
+- Cliente.java
+- Main.java
 
-✅ Listagem de clientes
+## Objetivo
 
-✅ Consulta de informações
+Projeto criado para praticar conceitos de programação orientada a objetos utilizando Java.
 
-✅ Manipulação de dados
-
-## Objetivos
-
-- Praticar lógica de programação
-- Aplicar conceitos de Orientação a Objetos
-- Aprender controle de versão com Git e GitHub
-- Desenvolver projetos para portfólio profissional
-
-## Desenvolvedora
+## Autora
 
 Maristela Aparecida Costa
 
-Bacharel em Sistemas de Informação
+Analista de Sistemas Júnior | Desenvolvedora Full Stack Júnior
 
-Curitiba - PR
-
-## Status
-
-🚀 Em desenvolvimento
-## Estrutura do Projeto
-
-├── Cliente.java
-├── Main.java
-└── README.md
-
-## Aprendizados
-
-Durante este projeto pratiquei:
-
-- Programação Orientada a Objetos
-- Classes e Objetos
-- Métodos
-- Git e GitHub
-- Organização de projetos Java
-
-## Próximas melhorias
-
-- Cadastro de múltiplos clientes
-- Menu interativo
-- Banco de dados
-- Interface gráfica
+GitHub: maristelagatinhapreta-jpg
