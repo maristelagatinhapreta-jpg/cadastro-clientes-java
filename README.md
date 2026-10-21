@@ -1,45 +1,72 @@
-# Sistema de Cadastro de Clientes
+# ☕ Cadastro de Clientes Java
 
-Projeto desenvolvido em Java para gerenciamento de clientes.
+## 📖 Sobre o Projeto
 
-## Funcionalidades
+O Cadastro de Clientes Java é uma aplicação desenvolvida para praticar conceitos fundamentais da linguagem Java e da Programação Orientada a Objetos (POO).
 
-- Cadastro de clientes
-- Consulta de clientes
-- Atualização de dados
-- Exclusão de clientes
+O sistema permite gerenciar informações de clientes de forma simples e organizada, simulando funcionalidades básicas utilizadas em sistemas empresariais.
 
-## Tecnologias Utilizadas
+## 🎯 Objetivos
+
+- Praticar Programação Orientada a Objetos (POO)
+- Desenvolver lógica de programação em Java
+- Trabalhar com estruturas de dados
+- Implementar operações de cadastro e gerenciamento de clientes
+- Aplicar boas práticas de desenvolvimento
+
+## 🚀 Tecnologias Utilizadas
 
 - Java
 - Programação Orientada a Objetos (POO)
 - Git
 - GitHub
 
-## Estrutura do Projeto
+## ✅ Funcionalidades
 
-- Cliente.java
-- Main.java
+- Cadastro de clientes
+- Consulta de clientes cadastrados
+- Atualização de informações
+- Exclusão de registros
+- Organização dos dados em estruturas apropriadas
 
-## Objetivo
+## 📁 Estrutura do Projeto
 
-Projeto criado para praticar conceitos de programação orientada a objetos utilizando Java.
+```text
+cadastro-clientes-java/
+│
+├── src/
+│   ├── Cliente.java
+│   ├── CadastroCliente.java
+│   └── Main.java
+│
+└── README.md
+```
 
-## Autora
+## 📚 Aprendizados
 
-Maristela Aparecida Costa
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
-Analista de Sistemas Júnior | Desenvolvedora Full Stack Júnior
-
-GitHub: maristelagatinhapreta-jpg
-
-## Habilidades Demonstradas
-
-- Programação Orientada a Objetos
-- Criação de Classes e Objetos
+- Classes e Objetos
 - Encapsulamento
-- Manipulação de Dados
-- Estruturação de Projetos Java
-- Controle de Versão com Git
+- Métodos
+- Atributos
+- Estruturas de decisão
+- Estruturas de repetição
+- Organização de código em Java
+- Versionamento com Git e GitHub
 
+## 💡 Possíveis Melhorias
 
+- Interface gráfica
+- Integração com banco de dados
+- Pesquisa avançada de clientes
+- Exportação de dados
+- Validação de campos
+
+## 👩‍💻 Autora
+
+Maristela Costa
+
+📍 Curitiba - PR, Brasil
+
+🔗 GitHub: https://github.com/maristelagatinhapreta-jpg
