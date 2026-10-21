@@ -67,6 +67,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
 Maristela Costa
 
-📍 Curitiba - PR, Brasil
+📍 Curitiba, Paraná, Brasil
 
 🔗 GitHub: https://github.com/maristelagatinhapreta-jpg
